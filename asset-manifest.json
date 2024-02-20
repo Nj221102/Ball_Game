@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ball_Game/static/css/main.aca46ff9.css",
-    "main.js": "/Ball_Game/static/js/main.d62897a3.js",
+    "main.css": "/Ball_Game/static/css/main.a3472f67.css",
+    "main.js": "/Ball_Game/static/js/main.5374a2aa.js",
     "static/js/453.ad6eb26e.chunk.js": "/Ball_Game/static/js/453.ad6eb26e.chunk.js",
     "index.html": "/Ball_Game/index.html",
-    "main.aca46ff9.css.map": "/Ball_Game/static/css/main.aca46ff9.css.map",
-    "main.d62897a3.js.map": "/Ball_Game/static/js/main.d62897a3.js.map",
+    "main.a3472f67.css.map": "/Ball_Game/static/css/main.a3472f67.css.map",
+    "main.5374a2aa.js.map": "/Ball_Game/static/js/main.5374a2aa.js.map",
     "453.ad6eb26e.chunk.js.map": "/Ball_Game/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aca46ff9.css",
-    "static/js/main.d62897a3.js"
+    "static/css/main.a3472f67.css",
+    "static/js/main.5374a2aa.js"
   ]
 }
